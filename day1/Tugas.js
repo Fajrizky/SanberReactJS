@@ -4,8 +4,7 @@ const sebuahObject = () => console.log("Hai Dunia Kucing!!");
 sebuahObject();
 // untuk menampilkan sebuah string sederhana menggunakan arraow function
 // tidak diperlukan sebuah parameter dan tidak perlu juga
-// untuk penggunaan tanda kurung kurawalnya
-
+// untuk penggunaan tanda kurung kurawalnya.
 
 //Soal 2
 
@@ -21,7 +20,6 @@ console.log(sebuahVariabel);
 // yang tertampilkan adalaah orange karena terjadi hoisting untuk pengunnaan
 // variabel yg bertipe var, dia aku mengambil nilai yg paling terakhir dideklarasikan
 
-
 //Soal 3
 
 //const sebuahVariabel = {}
@@ -31,7 +29,6 @@ console.log(sebuahVariabel);
 // tidak dapat di ubah nilainya. Mungkin variabel yg menampung nilai primitif
 // seperti string, number, boolean akan sulit mengubah nilainya tanpa
 // melalui inisialisasi ulang
-
 
 //Soal 4
 
